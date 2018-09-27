@@ -1,6 +1,6 @@
-package firsttask;
+package org.home.assigment1;
 
-public class Second {
+public class SecondTask {
 
 
     static  int num = 45686;
