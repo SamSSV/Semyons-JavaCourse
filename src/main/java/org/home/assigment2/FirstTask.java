@@ -51,14 +51,14 @@ public class FirstTask {
 
         String base = "*";
 
-        base += spaceString(spaceBefore) + str1 + spaceString(spaceAfter);
+        base += generateSpaceString(spaceBefore) + str1 + generateSpaceString(spaceAfter);
 
         base += "*";
 
         return base;
     }
 
-    public static String spaceString(int num) {
+    public static String generateSpaceString(int num) {
         String space = "";
         for (int i = 0; i < num; i++) {
             space += " ";

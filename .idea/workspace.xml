@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acde6554-7c2b-4c63-a3a0-6542270464e7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/home/assigment2/FirstTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/home/assigment2/ThirdTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/home/practies/PasswordGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/home/assigment2/FirstTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/home/assigment2/FirstTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/home/assigment2/FirstTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/home/assigment2/FirstTask.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,24 +40,48 @@
       <file leaf-file-name="SecondTask.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/SecondTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
+            <state relative-caret-position="-29">
               <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="74" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstTask.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FirstTask.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/FirstTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="46" column="51" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+            <state relative-caret-position="44">
+              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding>
-                <element signature="method#getUserData#0;class#FirstTask#0" />
                 <element signature="method#getMaxStrLenght#0;class#FirstTask#0" />
-                <element signature="method#drawFrame#0;class#FirstTask#0" />
-                <element signature="method#drawBaseLine#0;class#FirstTask#0" />
-                <element signature="method#spaceString#0;class#FirstTask#0" />
                 <element signature="method#main#0;class#FirstTask#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PasswordGenerator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/home/practies/PasswordGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+              <folding>
+                <element signature="method#generateRandomChar#0;class#PasswordGenerator#0" />
+                <element signature="method#generatePassword#0;class#PasswordGenerator#0" />
+                <element signature="e#2169#2170#0" expanded="true" />
+                <element signature="e#2225#2226#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThirdTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/ThirdTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding>
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,7 +140,9 @@
         <option value="$PROJECT_DIR$/src/main/java/org/home/assigment1/ThirdTask.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/home/assigment2/SecondTask.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/home/assigment2/firstTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/home/assigment2/ThirdTask.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/home/assigment2/FirstTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/home/practies/PasswordGenerator.java" />
       </list>
     </option>
   </component>
@@ -125,8 +154,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -191,6 +220,15 @@
             <path>
               <item name="salamakha" type="b2602c69:ProjectViewProjectNode" />
               <item name="salamakha" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="practies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="salamakha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="salamakha" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -203,6 +241,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -216,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstTask">
+  <component name="RunManager" selected="Application.PasswordGenerator">
     <configuration name="FirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.home.assigment2.FirstTask" />
       <module name="salamakha" />
@@ -224,6 +263,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.home.assigment2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PasswordGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.home.practices.PasswordGenerator" />
+      <module name="salamakha" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.home.practices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,10 +300,16 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="ThirdTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.home.assigment2.ThirdTask" />
       <module name="salamakha" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.home.assigment2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -297,17 +353,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Second" />
       <item itemvalue="Application.SecondTask" />
       <item itemvalue="Application.FirstTask" />
+      <item itemvalue="Application.ThirdTask" />
+      <item itemvalue="Application.PasswordGenerator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PasswordGenerator" />
         <item itemvalue="Application.FirstTask" />
         <item itemvalue="Application.SecondTask" />
+        <item itemvalue="Application.ThirdTask" />
         <item itemvalue="Application.Second" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -339,13 +397,13 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32969698" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32848486" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.31636363" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32969698" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.31636363" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32969698" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
       <window_info id="Capture Tool" order="2" />
@@ -356,7 +414,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.36727273" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -365,20 +423,38 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/home/assigment2/SecondTask.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="18" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -438,13 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/SecondTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-109">
@@ -466,17 +535,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/SecondTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/FirstTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="46" column="51" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+        <state relative-caret-position="44">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding>
-            <element signature="method#getUserData#0;class#FirstTask#0" />
             <element signature="method#getMaxStrLenght#0;class#FirstTask#0" />
-            <element signature="method#drawFrame#0;class#FirstTask#0" />
-            <element signature="method#drawBaseLine#0;class#FirstTask#0" />
-            <element signature="method#spaceString#0;class#FirstTask#0" />
             <element signature="method#main#0;class#FirstTask#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/ThirdTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/home/practies/PasswordGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <element signature="method#generateRandomChar#0;class#PasswordGenerator#0" />
+            <element signature="method#generatePassword#0;class#PasswordGenerator#0" />
+            <element signature="e#2169#2170#0" expanded="true" />
+            <element signature="e#2225#2226#0" expanded="true" />
           </folding>
         </state>
       </provider>
