@@ -2,9 +2,10 @@ package org.home.assigment2;
 
 public class SecondTask {
 
-    static int max, min;
+    static int max = 0;
+    static int min = 9;
 
-    private static long defaultNumber = 91037810;
+    private static long defaultNumber = 1072634;
 
 
     /*
@@ -16,16 +17,16 @@ public class SecondTask {
 
             if (defaultNumber > 9) {
                 int percentOfNum = (int)defaultNumber % 10;
-                int a = (percentOfNum == 0) ? 0 : (int) percentOfNum;
+                int a = percentOfNum;
                 defaultNumber = defaultNumber / 10;
                 percentOfNum = (int)defaultNumber % 10;
-                int b = (percentOfNum == 0) ? 0 : (int) percentOfNum;
+                int b = percentOfNum;
 
                 int midMax = a > b ? a : b;
                 int midMin = a < b ? a : b;
 
-                max = midMax > max ? midMax : max;
-                min = midMin < min ? midMin : min;
+                max = (midMax > max) ? midMax : max;
+                min = (midMin < min) ? midMin : min;
 
             } else {
                 int medium = (int) defaultNumber;

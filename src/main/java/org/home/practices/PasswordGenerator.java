@@ -14,9 +14,9 @@ public class PasswordGenerator {
     static int userData;
 
 
-    public static char generateRandomChar(String array) {
-        int randomIndex = rd.nextInt(array.length());
-        return array.charAt(randomIndex);
+    public static char generateRandomChar(String str1) {
+        int randomIndex = rd.nextInt(str1.length());
+        return str1.charAt(randomIndex);
     }
 
     public static int getUserData() {
