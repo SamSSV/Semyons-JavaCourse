@@ -5,13 +5,13 @@ public class SecondTask {
     static int max = 0;
     static int min = 10;
 
-    private static long defaultNumber = 90;
+    private static long defaultNumber = 87546321;
 
 
     /*
     Method compares last two digits in loop and defines min and max values
     */
-    public static void compareDigits(long num) {
+    /*public static void compareDigits(long num) {
 
         while (defaultNumber > 0) {
 
@@ -36,10 +36,22 @@ public class SecondTask {
             }
 
         }
+    }*/
+// after refactoring
+    public static void compareDigits1(long num) {
+
+        while (defaultNumber > 0) {
+            int a = (int) defaultNumber % 10;
+            defaultNumber = defaultNumber / 10;
+
+            max = (a > max) ? a : max;
+            min = (a < min) ? a : min;
+        }
     }
 
+
     public static void main(String[] args) {
-        compareDigits(defaultNumber);
+        compareDigits1(defaultNumber);
         System.out.println("max digit is: " + max);
         System.out.println("min digit is: " + min);
 
