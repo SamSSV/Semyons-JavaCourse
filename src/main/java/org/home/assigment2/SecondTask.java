@@ -3,9 +3,9 @@ package org.home.assigment2;
 public class SecondTask {
 
     static int max = 0;
-    static int min = 9;
+    static int min = 10;
 
-    private static long defaultNumber = 1072634;
+    private static long defaultNumber = 90;
 
 
     /*

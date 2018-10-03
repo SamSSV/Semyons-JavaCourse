@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acde6554-7c2b-4c63-a3a0-6542270464e7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/home/assigment2/FourthTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/home/assigment3/FirstTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/home/assigment2/SecondTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/home/assigment2/SecondTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/home/practices/PasswordGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/home/practices/PasswordGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/home/practies/PasswordGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/home/assigment2/ThirdTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/home/assigment2/ThirdTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/home/assigment2/SecondTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/home/assigment2/SecondTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/home/assigment2/ThirdTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/home/assigment2/ThirdTask.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,26 +27,17 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="44" />
+            <state relative-caret-position="165">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SecondTask.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment1/SecondTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="24" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SecondTask.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/SecondTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+            <state relative-caret-position="-233">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -48,8 +45,8 @@
       <file leaf-file-name="FirstTask.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/FirstTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="180">
+              <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="method#main#0;class#FirstTask#0" />
               </folding>
@@ -60,12 +57,10 @@
       <file leaf-file-name="PasswordGenerator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/home/practices/PasswordGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="372">
+              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
               <folding>
                 <element signature="method#generateRandomChar#0;class#PasswordGenerator#0" />
-                <element signature="method#getUserData#0;class#PasswordGenerator#0" />
-                <element signature="method#generatePassword#0;class#PasswordGenerator#0" />
                 <element signature="e#2301#2302#0" expanded="true" />
                 <element signature="e#2368#2369#0" expanded="true" />
               </folding>
@@ -73,20 +68,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThirdTask.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/ThirdTask.java">
+      <file leaf-file-name="FourthTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/FourthTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="390">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Scanner.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Scanner.java">
+      <file leaf-file-name="ThirdTask.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/ThirdTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22080">
-              <caret line="1532" column="18" selection-start-line="1532" selection-start-column="18" selection-end-line="1532" selection-end-column="18" />
+            <state relative-caret-position="225">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment3/FirstTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="method#convertFirstLetterToCapital#0;class#FirstTask#0" />
+                <element signature="method#convertFirstLetterToLower#0;class#FirstTask#0" />
+                <element signature="method#convertFirstLetterToCapital#0;class#FirstTask#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,17 +112,8 @@
       <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FirstTask.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment1/FirstTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="402">
+              <caret line="2896" column="18" selection-start-line="2896" selection-start-column="18" selection-end-line="2896" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -125,7 +134,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/firsttask/Second.java" />
         <option value="$PROJECT_DIR$/src/main/java/assigment1/Second.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/home/assigment1/Second.java" />
@@ -134,11 +142,15 @@
         <option value="$PROJECT_DIR$/src/main/java/org/home/home/assigment1/ThirdTask.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/home/assigment1/ThirdTask.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/home/assigment2/firstTask.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/home/assigment2/ThirdTask.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/home/assigment2/FirstTask.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/home/practies/PasswordGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/home/practices/PasswordGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/home/assigment2/SecondTask.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/home/assigment2/FourthTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/home/assigment3/FirstTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/home/assigment2/ThirdTask.java" />
       </list>
     </option>
   </component>
@@ -149,9 +161,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -220,6 +232,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="assigment3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="salamakha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="salamakha" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
               <item name="practices" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -234,6 +255,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -251,9 +273,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SecondTask">
+  <component name="RunManager" selected="Application.ThirdTask">
     <configuration name="FirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.home.assigment2.FirstTask" />
+      <option name="MAIN_CLASS_NAME" value="org.home.assigment3.FirstTask" />
+      <module name="salamakha" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.home.assigment3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FourthTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.home.assigment2.FourthTask" />
       <module name="salamakha" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -263,38 +296,10 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PasswordGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.home.practices.PasswordGenerator" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="salamakha" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.home.practices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assigment1.Second" />
-      <module name="salamakha" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="assigment1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SecondTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.home.assigment2.SecondTask" />
-      <module name="salamakha" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.home.assigment2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="ThirdTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.home.assigment2.ThirdTask" />
@@ -326,6 +331,64 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="FirstTask.getUserOption" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="salamakha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.home.assigment3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="org.home.assigment3" />
+      <option name="MAIN_CLASS_NAME" value="org.home.assigment3.FirstTask" />
+      <option name="METHOD_NAME" value="getUserOption" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="ThirdTask.fib" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="salamakha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.home.assigment2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="org.home.assigment2" />
+      <option name="MAIN_CLASS_NAME" value="org.home.assigment2.ThirdTask" />
+      <option name="METHOD_NAME" value="fib" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -349,19 +412,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Second" />
-      <item itemvalue="Application.SecondTask" />
-      <item itemvalue="Application.FirstTask" />
       <item itemvalue="Application.ThirdTask" />
-      <item itemvalue="Application.PasswordGenerator" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="TestNG.FirstTask.getUserOption" />
+      <item itemvalue="Application.FirstTask" />
+      <item itemvalue="TestNG.ThirdTask.fib" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SecondTask" />
-        <item itemvalue="Application.PasswordGenerator" />
-        <item itemvalue="Application.FirstTask" />
         <item itemvalue="Application.ThirdTask" />
-        <item itemvalue="Application.Second" />
+        <item itemvalue="TestNG.ThirdTask.fib" />
+        <item itemvalue="Application.FirstTask" />
+        <item itemvalue="TestNG.FirstTask.getUserOption" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -378,6 +441,38 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ThirdTask_foo - 2018.10.02 at 13h 14m 18s.xml">
+      <configuration name="ThirdTask.foo" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ThirdTask_foo - 2018.10.02 at 13h 59m 00s.xml">
+      <configuration name="ThirdTask.foo" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ThirdTask_foo - 2018.10.02 at 14h 00m 57s.xml">
+      <configuration name="ThirdTask.foo" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirstTask_getUserOption - 2018.10.03 at 11h 28m 05s.xml">
+      <configuration name="FirstTask.getUserOption" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirstTask_getUserOption - 2018.10.03 at 11h 28m 22s.xml">
+      <configuration name="FirstTask.getUserOption" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirstTask_getUserOption - 2018.10.03 at 13h 59m 14s.xml">
+      <configuration name="FirstTask.getUserOption" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ThirdTask_fib - 2018.10.03 at 18h 11m 55s.xml">
+      <configuration name="ThirdTask.fib" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ThirdTask_fib - 2018.10.03 at 18h 12m 30s.xml">
+      <configuration name="ThirdTask.fib" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ThirdTask_fib - 2018.10.03 at 18h 13m 00s.xml">
+      <configuration name="ThirdTask.fib" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ThirdTask_fib - 2018.10.03 at 18h 13m 28s.xml">
+      <configuration name="ThirdTask.fib" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -388,19 +483,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32848486" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.17818181" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.31636363" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32969698" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.31636363" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.31636363" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -410,7 +505,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" visible="true" weight="0.36727273" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.36727273" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -450,11 +545,16 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="20" />
+      <option name="time" value="32" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>powCounter</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>min</expression-string>
         <language-id>JAVA</language-id>
@@ -499,10 +599,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/ThirdTask.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/FourthTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -533,8 +636,6 @@
           <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="method#generateRandomChar#0;class#PasswordGenerator#0" />
-            <element signature="method#getUserData#0;class#PasswordGenerator#0" />
-            <element signature="method#generatePassword#0;class#PasswordGenerator#0" />
             <element signature="e#2301#2302#0" expanded="true" />
             <element signature="e#2368#2369#0" expanded="true" />
           </folding>
@@ -576,13 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment1/SecondTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -604,13 +698,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22080">
@@ -618,41 +705,137 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/ThirdTask.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="240">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/TestResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="e#3059#3060#0" expanded="true" />
+            <element signature="e#3628#3629#0" expanded="true" />
+            <element signature="e#3664#3665#0" expanded="true" />
+            <element signature="e#3703#3704#0" expanded="true" />
+            <element signature="e#3739#3740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/RegexpExpectedExceptionsHolder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/ExpectedExceptionsHolder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="445" selection-start-line="445" selection-end-line="445" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/home/practices/PasswordGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="372">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding>
             <element signature="method#generateRandomChar#0;class#PasswordGenerator#0" />
-            <element signature="method#getUserData#0;class#PasswordGenerator#0" />
-            <element signature="method#generatePassword#0;class#PasswordGenerator#0" />
             <element signature="e#2301#2302#0" expanded="true" />
             <element signature="e#2368#2369#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="2896" column="18" selection-start-line="2896" selection-start-column="18" selection-end-line="2896" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/SecondTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment3/FirstTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="method#convertFirstLetterToCapital#0;class#FirstTask#0" />
+            <element signature="method#convertFirstLetterToLower#0;class#FirstTask#0" />
+            <element signature="method#convertFirstLetterToCapital#0;class#FirstTask#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/FirstTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="180">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="method#main#0;class#FirstTask#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/SecondTask.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/FourthTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        <state relative-caret-position="390">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/home/assigment2/ThirdTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
