@@ -7,25 +7,9 @@ import java.lang.reflect.Array;
 
 public class FourthTask {
 
-    static int num;
-    static int powCounter = 0;
-    /*@DataProvider
-    public static Object[][] testData() {
-        return new Object[][]{
-                {4},
-                {2},
-                {7},
-                {8},
-                {0},
-                {128},
-                {256},
-                {254}
-        };
-    }
+    int powCounter = 0;
 
-*/
-    //@Test(dataProvider = "testData")
-    public static void foo(int num) {
+    public void foo(int num) {
 
         if (num == 0) {
             System.out.println(num + "You entered 0");
@@ -45,9 +29,9 @@ public class FourthTask {
     }
 
 
-
     public static void main(String[] args) {
-        foo(256);
+        FourthTask fourthTask = new FourthTask();
+        fourthTask.foo(256);
 
 
     }

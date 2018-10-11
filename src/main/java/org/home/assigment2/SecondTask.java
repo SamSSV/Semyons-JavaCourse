@@ -2,11 +2,19 @@ package org.home.assigment2;
 
 public class SecondTask {
 
-    static int max = 0;
-    static int min = 10;
+    int max = 0;
+    int min = 10;
 
     private static long defaultNumber = 87546321;
 
+
+    public int getMax() {
+        return max;
+    }
+
+    public int getMin() {
+        return min;
+    }
 
     /*
     Method compares last two digits in loop and defines min and max values
@@ -38,7 +46,7 @@ public class SecondTask {
         }
     }*/
 // after refactoring
-    public static void compareDigits1(long num) {
+    public void compareDigits1(long num) {
 
         while (defaultNumber > 0) {
             int a = (int) defaultNumber % 10;
@@ -51,10 +59,10 @@ public class SecondTask {
 
 
     public static void main(String[] args) {
-        compareDigits1(defaultNumber);
-        System.out.println("max digit is: " + max);
-        System.out.println("min digit is: " + min);
-
+        SecondTask secondTask = new SecondTask();
+        secondTask.compareDigits1(defaultNumber);
+        System.out.println("max digit is: " + secondTask.getMax());
+        System.out.println("min digit is: " + secondTask.getMin());
     }
 
 

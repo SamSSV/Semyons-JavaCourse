@@ -13,35 +13,31 @@ public class FirstTask {
     private static final String OPTION_E = "E. First word of entered text  starts with a letter in uppercase";
     private static final String OPTION_F = "F. Exit";
 
-    private static String userData = "";
+    private String userData = "";
 
-
-    public static String getUserData() {
+    public String getUserData() {
         return userData;
     }
 
-    public static String setUserData() {
+    public String setUserData() {
         Scanner sc = new Scanner(System.in);
         String a = sc.nextLine();
         return userData = a;
     }
-
-    /*public static String getUserData1() {
-        Scanner sc = new Scanner(System.in);
-        String a = sc.nextLine();
-        userData = a;
-        return a;
-    }*/
 
     public static String convertFirstLettersToCapital(String text) {
         String[] foo = text.split(" ");
         String newString = "";
         for (String el : foo) {
             el = el.toLowerCase();
-            el = el.substring(0, 1).toUpperCase() + el.substring(1);
-            newString = newString + el;
+            if (el.length() > 1) {
+                el = el.substring(0, 1).toUpperCase() + el.substring(1);
+            } else {
+                el = el.substring(0, 1).toUpperCase();
+            }
+            newString = newString + el + " ";
         }
-        return newString;
+        return newString.trim();
     }
 
     public static String convertFirstLettersToLower(String text) {
@@ -49,10 +45,14 @@ public class FirstTask {
         String newString = "";
         for (String el : foo) {
             el = el.toUpperCase();
-            el = el.substring(0, 1).toLowerCase() + el.substring(1);
-            newString = newString + el;
+            if (el.length() > 1) {
+                el = el.substring(0, 1).toLowerCase() + el.substring(1);
+            } else {
+                el = el.substring(0, 1).toLowerCase();
+            }
+            newString = newString + el + " ";
         }
-        return newString;
+        return newString.trim();
     }
 
     public static String convertFirstLetterToCapital(String text) {
@@ -61,15 +61,16 @@ public class FirstTask {
         return el.substring(0, 1).toUpperCase() + el.substring(1);
     }
 
-    public static String getUserOption(String text) {
+    public String getUserOption() {
         boolean flag = true;
         String option = "";
-        System.out.printf("You can pick one of suggested options:%n%s%n%s%n%s%n%s%n%s%n%s%n", OPTION_A, OPTION_B, OPTION_C, OPTION_D, OPTION_E, OPTION_F);
+        System.out.printf("%nYou can pick one of suggested options:%n%s%n%s%n%s%n%s%n%s%n%s%n", OPTION_A, OPTION_B, OPTION_C, OPTION_D, OPTION_E, OPTION_F);
         Scanner sc = new Scanner(System.in);
 
-        do {
+
+        while (flag) {
             String a = sc.nextLine();
-            a = a.toUpperCase();
+            //a = a.toUpperCase();
             char b = a.toCharArray()[0];
             int num = b;
 
@@ -101,23 +102,28 @@ public class FirstTask {
                         System.out.println(option);
                         break;
                     case 70:
-                        option = "Program has been stopped";
-                        System.out.println(option);
+                        option = "Program has been terminated";
                         flag = false;
                         break;
                     default:
                         System.out.println("You can pick only one of suggested options");
                         flag = true;
                 }
+            } else {
+                System.out.println("You can pick only one of suggested options");
+                flag = true;
             }
-        } while (flag);
+        }
+
 
         return option;
     }
 
     public static void main(String[] args) {
+        FirstTask firstTask = new FirstTask();
         System.out.println("Enter some text");
-        System.out.println(getUserOption(getUserData()));
+        firstTask.setUserData();
+        System.out.println(firstTask.getUserOption());
     }
 }
 
